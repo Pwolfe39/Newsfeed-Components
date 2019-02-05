@@ -1,5 +1,5 @@
 
-const toggleMenu = () => {
+const toggleMenu = (e) => {
   // Toggle the "menu--open" class on your menu refence. 
 }
 
